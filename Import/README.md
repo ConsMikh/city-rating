@@ -1,14 +1,14 @@
-### Импорт данных о городах
+## Импорт данных о городах
 
-#### Общие данные о городах
+### Общие данные о городах
 
-1. Данные о численности населения
+#### Данные о численности населения
 
 Официальная статистика
 
 | Сайт | Ссылка | Скрипт | Очищенные данные |
 |:-----|:-------|:-------|:-----------------|
-|Росстат | https://rosstat.gov.ru/compendium/document/13282 | rosstat.ipynb | rosstat_clean.csv |
+|Росстат | https://rosstat.gov.ru/compendium/document/13282 | [rosstat.ipynb](Population/rosstat.ipynb) | [rosstat_clean.csv](Population/rosstat_clean.csv) |
 
 Тематические сайты
 
