@@ -2,16 +2,18 @@
 
 ### Общие данные о городах
 
-#### Данные о численности населения
-
-Официальная статистика
-
-| Сайт | Ссылка | Скрипт | Очищенные данные |
-|:-----|:-------|:-------|:-----------------|
-|Росстат | https://rosstat.gov.ru/compendium/document/13282 | [rosstat.ipynb](Population/rosstat.ipynb) | [rosstat_clean.csv](Population/rosstat_clean.csv) |
+| Показатель | Сайт | Метод | Скрипт | Очищенные данные | Примечание |
+|:-----------|:-----|:------|:-------|:-----------------|:-----------|
+| Численность населения |[Росстат](https://rosstat.gov.ru/compendium/document/13282) | Парсинг файла | [rosstat.ipynb](Population/rosstat.ipynb) | [rosstat_clean.csv](Population/rosstat_clean.csv) | Высокодостоверные данные, так как взяты с сайта официальной статистики |
+| Данные о климате | [Сайт погодные сервисы](http://pogoda-service.ru/) | Парсинг файла, скрапинг сайта | [climate.py](Climate/climate.py) | [citiescoor.json](Climate/citiescoor.json) | Данные вызывают сомнения. Например, для Москвы в начале явнваля указана минимальная температура около 10 градусов мороза. Сомнительно. Не для всех городов легко достать данные |
 
 Тематические сайты
+Численность населения:
 
 http://www.statdata.ru/largest_cities_russia
 
 https://города-россия.рф/
+
+Климат:
+
+http://pogoda-service.ru/climate.php
