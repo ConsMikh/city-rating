@@ -18,3 +18,10 @@ https://города-россия.рф/
 Климат:
 
 http://pogoda-service.ru/climate.php
+
+Образование
+
+| Показатель  | Сайт   | Метод     | Скрипт     | Очищенные данные    |  Примечания  |
+| :---------- | :----- | :-------- | :--------- | :------------------ | :----------- |
+| Рейтинг вузов России | [raex-rr.com](https://raex-rr.com/pro/all_rankings/) | Скрапинг сайта | [top_university.ipynb](Education/top_university.ipynb) | [univercity_rating.json](Education/univercity_rating.json) | Помимо рейтингов содержит: ИНН, регион ВУЗа, ссылку на сайт |
+
