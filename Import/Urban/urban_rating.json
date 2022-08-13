@@ -1,0 +1,772 @@
+[
+   {
+      "rating": "228",
+      "living": "51",
+      "roads": "30",
+      "trees": "32",
+      "business": "38",
+      "social": "42",
+      "commonplaces": "35",
+      "city": "Ярославль"
+   },
+   {
+      "rating": "181",
+      "living": "26",
+      "roads": "30",
+      "trees": "34",
+      "business": "23",
+      "social": "29",
+      "commonplaces": "39",
+      "city": "Якутск"
+   },
+   {
+      "rating": "181",
+      "living": "30",
+      "roads": "33",
+      "trees": "25",
+      "business": "21",
+      "social": "33",
+      "commonplaces": "39",
+      "city": "Чита"
+   },
+   {
+      "rating": "215",
+      "living": "47",
+      "roads": "38",
+      "trees": "22",
+      "business": "30",
+      "social": "41",
+      "commonplaces": "37",
+      "city": "Череповец"
+   },
+   {
+      "rating": "220",
+      "living": "48",
+      "roads": "34",
+      "trees": "35",
+      "business": "34",
+      "social": "30",
+      "commonplaces": "39",
+      "city": "Чебоксары"
+   },
+   {
+      "rating": "222",
+      "living": "41",
+      "roads": "33",
+      "trees": "33",
+      "business": "38",
+      "social": "35",
+      "commonplaces": "42",
+      "city": "Химки"
+   },
+   {
+      "rating": "202",
+      "living": "35",
+      "roads": "31",
+      "trees": "29",
+      "business": "28",
+      "social": "42",
+      "commonplaces": "37",
+      "city": "Хабаровск"
+   },
+   {
+      "rating": "191",
+      "living": "42",
+      "roads": "26",
+      "trees": "27",
+      "business": "28",
+      "social": "31",
+      "commonplaces": "37",
+      "city": "Ульяновск"
+   },
+   {
+      "rating": "182",
+      "living": "24",
+      "roads": "38",
+      "trees": "18",
+      "business": "37",
+      "social": "28",
+      "commonplaces": "37",
+      "city": "Улан-Удэ"
+   },
+   {
+      "rating": "233",
+      "living": "46",
+      "roads": "38",
+      "trees": "35",
+      "business": "32",
+      "social": "49",
+      "commonplaces": "33",
+      "city": "Тюмень"
+   },
+   {
+      "rating": "213",
+      "living": "39",
+      "roads": "28",
+      "trees": "34",
+      "business": "39",
+      "social": "40",
+      "commonplaces": "33",
+      "city": "Тула"
+   },
+   {
+      "rating": "180",
+      "living": "26",
+      "roads": "28",
+      "trees": "27",
+      "business": "26",
+      "social": "35",
+      "commonplaces": "38",
+      "city": "Томск"
+   },
+   {
+      "rating": "208",
+      "living": "47",
+      "roads": "36",
+      "trees": "27",
+      "business": "30",
+      "social": "35",
+      "commonplaces": "33",
+      "city": "Тольятти"
+   },
+   {
+      "rating": "200",
+      "living": "48",
+      "roads": "36",
+      "trees": "22",
+      "business": "31",
+      "social": "31",
+      "commonplaces": "32",
+      "city": "Тверь"
+   },
+   {
+      "rating": "204",
+      "living": "47",
+      "roads": "31",
+      "trees": "25",
+      "business": "32",
+      "social": "36",
+      "commonplaces": "33",
+      "city": "Тамбов"
+   },
+   {
+      "rating": "204",
+      "living": "35",
+      "roads": "35",
+      "trees": "24",
+      "business": "31",
+      "social": "41",
+      "commonplaces": "38",
+      "city": "Сургут"
+   },
+   {
+      "rating": "201",
+      "living": "44",
+      "roads": "35",
+      "trees": "21",
+      "business": "40",
+      "social": "27",
+      "commonplaces": "34",
+      "city": "Стерлитамак"
+   },
+   {
+      "rating": "211",
+      "living": "48",
+      "roads": "34",
+      "trees": "28",
+      "business": "25",
+      "social": "37",
+      "commonplaces": "39",
+      "city": "Ставрополь"
+   },
+   {
+      "rating": "229",
+      "living": "30",
+      "roads": "35",
+      "trees": "53",
+      "business": "30",
+      "social": "39",
+      "commonplaces": "42",
+      "city": "Сочи"
+   },
+   {
+      "rating": "191",
+      "living": "29",
+      "roads": "33",
+      "trees": "36",
+      "business": "31",
+      "social": "28",
+      "commonplaces": "34",
+      "city": "Смоленск"
+   },
+   {
+      "rating": "171",
+      "living": "30",
+      "roads": "26",
+      "trees": "24",
+      "business": "31",
+      "social": "20",
+      "commonplaces": "40",
+      "city": "Симферополь"
+   },
+   {
+      "rating": "186",
+      "living": "35",
+      "roads": "32",
+      "trees": "24",
+      "business": "30",
+      "social": "33",
+      "commonplaces": "32",
+      "city": "Севастополь"
+   },
+   {
+      "rating": "205",
+      "living": "40",
+      "roads": "35",
+      "trees": "40",
+      "business": "24",
+      "social": "31",
+      "commonplaces": "35",
+      "city": "Саратов"
+   },
+   {
+      "rating": "187",
+      "living": "36",
+      "roads": "31",
+      "trees": "27",
+      "business": "20",
+      "social": "35",
+      "commonplaces": "38",
+      "city": "Саранск"
+   },
+   {
+      "rating": "201",
+      "living": "43",
+      "roads": "30",
+      "trees": "33",
+      "business": "25",
+      "social": "34",
+      "commonplaces": "36",
+      "city": "Рязань"
+   },
+   {
+      "rating": "211",
+      "living": "42",
+      "roads": "29",
+      "trees": "25",
+      "business": "43",
+      "social": "34",
+      "commonplaces": "38",
+      "city": "Подольск"
+   },
+   {
+      "rating": "212",
+      "living": "42",
+      "roads": "33",
+      "trees": "27",
+      "business": "36",
+      "social": "32",
+      "commonplaces": "42",
+      "city": "Петрозаводск"
+   },
+   {
+      "rating": "192",
+      "living": "32",
+      "roads": "33",
+      "trees": "30",
+      "business": "27",
+      "social": "35",
+      "commonplaces": "35",
+      "city": "Пенза"
+   },
+   {
+      "rating": "189",
+      "living": "44",
+      "roads": "26",
+      "trees": "21",
+      "business": "26",
+      "social": "37",
+      "commonplaces": "35",
+      "city": "Оренбург"
+   },
+   {
+      "rating": "189",
+      "living": "47",
+      "roads": "22",
+      "trees": "20",
+      "business": "27",
+      "social": "34",
+      "commonplaces": "39",
+      "city": "Орел"
+   },
+   {
+      "rating": "215",
+      "living": "45",
+      "roads": "29",
+      "trees": "44",
+      "business": "35",
+      "social": "25",
+      "commonplaces": "37",
+      "city": "Новороссийск"
+   },
+   {
+      "rating": "180",
+      "living": "40",
+      "roads": "31",
+      "trees": "24",
+      "business": "19",
+      "social": "32",
+      "commonplaces": "34",
+      "city": "Новокузнецк"
+   },
+   {
+      "rating": "179",
+      "living": "34",
+      "roads": "33",
+      "trees": "15",
+      "business": "31",
+      "social": "35",
+      "commonplaces": "31",
+      "city": "Нижний Тагил"
+   },
+   {
+      "rating": "180",
+      "living": "47",
+      "roads": "29",
+      "trees": "23",
+      "business": "19",
+      "social": "29",
+      "commonplaces": "33",
+      "city": "Нижневартовск"
+   },
+   {
+      "rating": "199",
+      "living": "48",
+      "roads": "31",
+      "trees": "18",
+      "business": "27",
+      "social": "41",
+      "commonplaces": "34",
+      "city": "Набережные Челны"
+   },
+   {
+      "rating": "207",
+      "living": "40",
+      "roads": "33",
+      "trees": "30",
+      "business": "25",
+      "social": "40",
+      "commonplaces": "39",
+      "city": "Мурманск"
+   },
+   {
+      "rating": "178",
+      "living": "43",
+      "roads": "37",
+      "trees": "23",
+      "business": "18",
+      "social": "21",
+      "commonplaces": "36",
+      "city": "Махачкала"
+   },
+   {
+      "rating": "204",
+      "living": "41",
+      "roads": "40",
+      "trees": "26",
+      "business": "27",
+      "social": "36",
+      "commonplaces": "34",
+      "city": "Магнитогорск"
+   },
+   {
+      "rating": "219",
+      "living": "44",
+      "roads": "35",
+      "trees": "34",
+      "business": "32",
+      "social": "38",
+      "commonplaces": "36",
+      "city": "Липецк"
+   },
+   {
+      "rating": "170",
+      "living": "42",
+      "roads": "26",
+      "trees": "17",
+      "business": "26",
+      "social": "23",
+      "commonplaces": "36",
+      "city": "Курск"
+   },
+   {
+      "rating": "175",
+      "living": "35",
+      "roads": "31",
+      "trees": "25",
+      "business": "23",
+      "social": "27",
+      "commonplaces": "34",
+      "city": "Курган"
+   },
+   {
+      "rating": "225",
+      "living": "43",
+      "roads": "36",
+      "trees": "40",
+      "business": "31",
+      "social": "35",
+      "commonplaces": "40",
+      "city": "Краснодар"
+   },
+   {
+      "rating": "204",
+      "living": "42",
+      "roads": "31",
+      "trees": "26",
+      "business": "32",
+      "social": "33",
+      "commonplaces": "40",
+      "city": "Кострома"
+   },
+   {
+      "rating": "190",
+      "living": "33",
+      "roads": "25",
+      "trees": "36",
+      "business": "31",
+      "social": "32",
+      "commonplaces": "33",
+      "city": "Киров"
+   },
+   {
+      "rating": "202",
+      "living": "32",
+      "roads": "31",
+      "trees": "32",
+      "business": "26",
+      "social": "41",
+      "commonplaces": "40",
+      "city": "Кемерово"
+   },
+   {
+      "rating": "215",
+      "living": "41",
+      "roads": "33",
+      "trees": "35",
+      "business": "35",
+      "social": "35",
+      "commonplaces": "36",
+      "city": "Калуга"
+   },
+   {
+      "rating": "223",
+      "living": "43",
+      "roads": "35",
+      "trees": "39",
+      "business": "33",
+      "social": "37",
+      "commonplaces": "36",
+      "city": "Калининград"
+   },
+   {
+      "rating": "189",
+      "living": "36",
+      "roads": "24",
+      "trees": "29",
+      "business": "30",
+      "social": "31",
+      "commonplaces": "39",
+      "city": "Йошкар-Ола"
+   },
+   {
+      "rating": "183",
+      "living": "29",
+      "roads": "30",
+      "trees": "20",
+      "business": "32",
+      "social": "37",
+      "commonplaces": "35",
+      "city": "Иркутск"
+   },
+   {
+      "rating": "208",
+      "living": "43",
+      "roads": "30",
+      "trees": "33",
+      "business": "27",
+      "social": "41",
+      "commonplaces": "34",
+      "city": "Ижевск"
+   },
+   {
+      "rating": "188",
+      "living": "46",
+      "roads": "27",
+      "trees": "13",
+      "business": "34",
+      "social": "30",
+      "commonplaces": "38",
+      "city": "Иваново"
+   },
+   {
+      "rating": "233",
+      "living": "42",
+      "roads": "34",
+      "trees": "44",
+      "business": "26",
+      "social": "44",
+      "commonplaces": "43",
+      "city": "Грозный"
+   },
+   {
+      "rating": "218",
+      "living": "44",
+      "roads": "32",
+      "trees": "42",
+      "business": "34",
+      "social": "36",
+      "commonplaces": "30",
+      "city": "Вологда"
+   },
+   {
+      "rating": "193",
+      "living": "44",
+      "roads": "34",
+      "trees": "20",
+      "business": "29",
+      "social": "35",
+      "commonplaces": "31",
+      "city": "Волжский"
+   },
+   {
+      "rating": "210",
+      "living": "40",
+      "roads": "30",
+      "trees": "34",
+      "business": "36",
+      "social": "36",
+      "commonplaces": "34",
+      "city": "Владимир"
+   },
+   {
+      "rating": "204",
+      "living": "36",
+      "roads": "32",
+      "trees": "43",
+      "business": "21",
+      "social": "34",
+      "commonplaces": "38",
+      "city": "Владикавказ"
+   },
+   {
+      "rating": "193",
+      "living": "38",
+      "roads": "29",
+      "trees": "27",
+      "business": "40",
+      "social": "24",
+      "commonplaces": "35",
+      "city": "Владивосток"
+   },
+   {
+      "rating": "213",
+      "living": "45",
+      "roads": "28",
+      "trees": "27",
+      "business": "39",
+      "social": "33",
+      "commonplaces": "41",
+      "city": "Брянск"
+   },
+   {
+      "rating": "226",
+      "living": "44",
+      "roads": "32",
+      "trees": "35",
+      "business": "32",
+      "social": "41",
+      "commonplaces": "42",
+      "city": "Белгород"
+   },
+   {
+      "rating": "184",
+      "living": "34",
+      "roads": "24",
+      "trees": "24",
+      "business": "24",
+      "social": "38",
+      "commonplaces": "40",
+      "city": "Барнаул"
+   },
+   {
+      "rating": "219",
+      "living": "48",
+      "roads": "29",
+      "trees": "28",
+      "business": "43",
+      "social": "30",
+      "commonplaces": "41",
+      "city": "Балашиха"
+   },
+   {
+      "rating": "182",
+      "living": "24",
+      "roads": "32",
+      "trees": "27",
+      "business": "17",
+      "social": "34",
+      "commonplaces": "40",
+      "city": "Астрахань"
+   },
+   {
+      "city": "Челябинск",
+      "rating": "183",
+      "living": "34",
+      "roads": "32",
+      "trees": "27",
+      "business": "27",
+      "social": "32",
+      "commonplaces": "31"
+   },
+   {
+      "city": "Уфа",
+      "rating": "204",
+      "living": "32",
+      "roads": "37",
+      "trees": "42",
+      "business": "32",
+      "social": "27",
+      "commonplaces": "34"
+   },
+   {
+      "city": "Санкт-Петербург",
+      "rating": "256",
+      "living": "42",
+      "roads": "49",
+      "trees": "42",
+      "business": "41",
+      "social": "41",
+      "commonplaces": "41"
+   },
+   {
+      "city": "Самара",
+      "rating": "172",
+      "living": "22",
+      "roads": "32",
+      "trees": "28",
+      "business": "29",
+      "social": "30",
+      "commonplaces": "31"
+   },
+   {
+      "city": "Ростов-на-Дону",
+      "rating": "208",
+      "living": "42",
+      "roads": "28",
+      "trees": "25",
+      "business": "28",
+      "social": "41",
+      "commonplaces": "44"
+   },
+   {
+      "city": "Пермь",
+      "rating": "191",
+      "living": "32",
+      "roads": "32",
+      "trees": "37",
+      "business": "24",
+      "social": "30",
+      "commonplaces": "36"
+   },
+   {
+      "city": "Омск",
+      "rating": "127",
+      "living": "25",
+      "roads": "23",
+      "trees": "18",
+      "business": "14",
+      "social": "19",
+      "commonplaces": "28"
+   },
+   {
+      "city": "Новосибирск",
+      "rating": "195",
+      "living": "30",
+      "roads": "25",
+      "trees": "28",
+      "business": "33",
+      "social": "34",
+      "commonplaces": "45"
+   },
+   {
+      "city": "Нижний Новгород",
+      "rating": "209",
+      "living": "36",
+      "roads": "32",
+      "trees": "41",
+      "business": "28",
+      "social": "35",
+      "commonplaces": "37"
+   },
+   {
+      "city": "Москва",
+      "rating": "293",
+      "living": "45",
+      "roads": "47",
+      "trees": "42",
+      "business": "52",
+      "social": "51",
+      "commonplaces": "56"
+   },
+   {
+      "city": "Красноярск",
+      "rating": "190",
+      "living": "33",
+      "roads": "27",
+      "trees": "30",
+      "business": "26",
+      "social": "32",
+      "commonplaces": "42"
+   },
+   {
+      "city": "Казань",
+      "rating": "210",
+      "living": "39",
+      "roads": "36",
+      "trees": "32",
+      "business": "29",
+      "social": "38",
+      "commonplaces": "36"
+   },
+   {
+      "city": "Екатеринбург",
+      "rating": "203",
+      "living": "40",
+      "roads": "43",
+      "trees": "21",
+      "business": "23",
+      "social": "34",
+      "commonplaces": "42"
+   },
+   {
+      "city": "Воронеж",
+      "rating": "184",
+      "living": "44",
+      "roads": "29",
+      "trees": "29",
+      "business": "26",
+      "social": "26",
+      "commonplaces": "30"
+   },
+   {
+      "city": "Волгоград",
+      "rating": "163",
+      "living": "24",
+      "roads": "28",
+      "trees": "22",
+      "business": "28",
+      "social": "26",
+      "commonplaces": "35"
+   }
+]
